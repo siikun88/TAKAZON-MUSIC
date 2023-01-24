@@ -1,4 +1,4 @@
-const otowakka = new Audio('https://www.dropbox.com/s/wnud2qhmlk9z7zk/otowakka.mp3?dl=0');
+const otowakka = new Audio('audio/sinnkou.mp3');
 const sinnkou = new Audio('audio/sinnkou.mp3');
 const sushitabetai = new Audio('audio/sushitabetai.mp3');
 const teikyouheiseidaigaku = new Audio('audio/teikyouheiseidaigaku.mp3');
