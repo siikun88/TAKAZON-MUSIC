@@ -1,3 +1,6 @@
+body{
+  background-color:navy;
+}
 header.page-header {
     background: no-repeat left/cover url(/media/examples/puppy-header-logo.jpg);
     display: flex;
